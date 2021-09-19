@@ -23,9 +23,6 @@ hs_err_pid*
 
 # Idea files
 /.idea/
-/Legacy5Lab/Legacy5Lab.iml
-/Server/Server.iml
-/Client/Client.iml
 /Legacy5Lab/target/
 /Server/target/
 /Client/target/
